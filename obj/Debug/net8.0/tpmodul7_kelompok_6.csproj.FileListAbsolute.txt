@@ -43,3 +43,18 @@ C:\Users\Muhammad Zaky A\Documents\Semester 4\KPL\mod7\tpmodul7_kelompok_6\obj\D
 C:\Users\Muhammad Zaky A\Documents\Semester 4\KPL\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.pdb
 C:\Users\Muhammad Zaky A\Documents\Semester 4\KPL\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.genruntimeconfig.cache
 C:\Users\Muhammad Zaky A\Documents\Semester 4\KPL\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\ref\tpmodul7_kelompok_6.dll
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.AssemblyInfoInputs.cache
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.AssemblyInfo.cs
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.sourcelink.json
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.dll
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\refint\tpmodul7_kelompok_6.dll
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.pdb
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.exe
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.deps.json
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.runtimeconfig.json
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.dll
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.pdb
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.genruntimeconfig.cache
+C:\Users\Marcello\Documents\Tpmod7\tpmodul7_kelompok_6\obj\Debug\net8.0\ref\tpmodul7_kelompok_6.dll
