@@ -29,7 +29,7 @@ public class KuliahMahasiswa_103022300061
 
             if (courseList != null && courseList.courses != null)
             {
-                Console.WriteLine("Daftar Mata Kuliah:");
+                Console.WriteLine("Daftar Mata Kuliah yang Diambil:");
 
                 // Gunakan for loop biasa
                 for (int i = 0; i < courseList.courses.Count; i++)
