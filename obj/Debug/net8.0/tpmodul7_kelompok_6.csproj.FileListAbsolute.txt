@@ -13,3 +13,18 @@ C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul7_kelom
 C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.pdb
 C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\Documents\Rafa Mufid\Kuliah\Semester 4\KPL\tpmodul7_kelompok_6\obj\Debug\net8.0\ref\tpmodul7_kelompok_6.dll
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.exe
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.deps.json
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.runtimeconfig.json
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.dll
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\bin\Debug\net8.0\tpmodul7_kelompok_6.pdb
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.AssemblyInfoInputs.cache
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.AssemblyInfo.cs
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.csproj.CoreCompileInputs.cache
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.sourcelink.json
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.dll
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\refint\tpmodul7_kelompok_6.dll
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.pdb
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\tpmodul7_kelompok_6.genruntimeconfig.cache
+C:\Users\Dillan\Documents\praktikum kpl\mod7\tpmodul7_kelompok_6\obj\Debug\net8.0\ref\tpmodul7_kelompok_6.dll
